@@ -17,6 +17,9 @@
 
 }
 
+.textscolors{
+    color: purple !important;
+  }
 @media (max-width: 576px) {
     .Container {
       max-width: 100%;
