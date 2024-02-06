@@ -63,7 +63,7 @@ CSS ilə siz veb səhifələrin tərtibatı, rəngləri, istifadə olunan şrift
 <img style={{width:"60px"}} src={react} alt="" />
 <h3>React nədir?</h3>
 <p className='htmltext'>
-React.js bir JavaScript kitabxanasıdır. Bununla biz bir web-səhifə hazırlaya bilərik (qısa sözlə desək UI hazırlamaq). Diqqət etdinizsə mən “kitabxanadır” dedim, yəni framework deyil!. React-ın tək vəzifəsi interfeysdəki bütün işləri ən məntiqli, ən sadə, ən performanslı yol ilə hazırlamaqdır. Bunu necə edir? Bunu necəetdiyini izah etmək üçün React’ı biraz daha texniki tərəfdən izah edək; React,component(element) əsaslı, Virtual DOM memarlığı(başqa söz tapmadım izah etməyə😅) istifadə edən bir Frontend kitabxanasıdır. Birazdan bunların nə olduğu haqqında ətraflı danışacağam.
+React.js bir JavaScript kitabxanasıdır. Bununla biz bir web-səhifə hazırlaya bilərik (qısa sözlə desək UI hazırlamaq). Diqqət etdinizsə mən “kitabxanadır” dedim, yəni framework deyil!. React-ın tək vəzifəsi interfeysdəki bütün işləri ən məntiqli, ən sadə, ən performanslı yol ilə hazırlamaqdır. Bunu necə edir? Bunu necəetdiyini izah etmək üçün React’ı biraz daha texniki tərəfdən izah edək; React,component(element) əsaslı, Virtual DOM memarlığı(başqa söz tapmadım izah etməyə😅) istifadə edən bir Frontend kitabxanasıdır.
 </p>
 
             </Box>
