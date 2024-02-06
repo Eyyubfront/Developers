@@ -43,7 +43,7 @@ const Contact=()=>{
 <a href="#kurs">
 <h3>Mənbə və Kurslar</h3>
     </a>
-<a href="#contact"><h3>Əlaqə</h3></a>
+
 </Stack>
 </Stack>
         </Stack>
