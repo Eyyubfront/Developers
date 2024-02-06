@@ -1,0 +1,93 @@
+.htmltext{
+    font-family: "Open Sans"!important;
+    width: 100%;
+    text-align: center;
+}
+.box{
+    border-radius: 10px 100px / 120px;
+    background-color: rgb(255, 168, 6);
+    width: 400px;
+   text-align: center;
+   padding: 20px ;
+ 
+}
+.box2{
+    border-radius: 10px 100px / 120px;
+    background-color: rgb(158, 165, 66);
+    width: 400px;
+   text-align: center;
+   padding: 20px ;
+}
+.box3{
+    border-radius: 10px 100px / 120px;
+    background-color: rgb(66, 109, 165);
+    width: 400px;
+   text-align: center;
+   padding: 25px ;
+}
+
+.box4{
+    border-radius: 10px 100px / 120px;
+    background-color: rgb(66, 165, 119);
+    width: 400px;
+   text-align: center;
+   padding: 25px ;
+}
+#kurs{
+    overflow: hidden;
+}
+.aboutvideo{
+   display: flex;
+   flex-direction: row !important;
+   gap: 15%;
+   margin-top: 15px;
+justify-content: center;
+}
+.kurs{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+.courspas{
+    display: flex;
+    flex-direction: row !important;
+    margin-top: 30px;
+    gap: 15%;
+    justify-content: center;
+    align-items: center;
+}
+
+.frontabouts{
+    margin-top: 15px;
+    gap: 15%;
+    display: flex;
+    flex-direction: row !important;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 576px) {
+    .Container {
+      max-width: 100%;
+    }
+    .aboutvideo,
+    .frontabouts,
+    .courspas{
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 15px !important;
+    }
+
+ .videosinformation{
+    width: 100% !important;
+ }
+
+   
+    .box,
+    .box2,
+    .box3,
+    .box4{
+        width: 100%;
+    }
+  }
