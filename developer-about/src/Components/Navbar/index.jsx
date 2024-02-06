@@ -34,13 +34,15 @@ alignItems="center"
 >
 
 <a href="#about">
-    <h3>Məlumat</h3>
+    <h3 className="textscolors" >Məlumat</h3>
 </a>
 
 <a href="#kurs">
-<h3>Mənbə və Kurslar</h3>
+<h3 className="textscolors" >Mənbə və Kurslar</h3>
     </a>
-<a href="#contact"><h3>Əlaqə</h3></a>
+<a href="#contact">
+    <h3 className="textscolors">Əlaqə</h3>
+    </a>
 </Stack>
 
 <BurgerMenu/>
